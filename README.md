@@ -1,15 +1,21 @@
 # The Phantom of the Matrix #
 What is the sum of the following two matrices?
 
-![equation 1](eq1.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwhittaker/phantom-matrix/master/eq1.png" alt="equation 1"/>
+</p>
 
 Well, this a pretty simple question. It's the following matrix:
 
-![equation 2](eq2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwhittaker/phantom-matrix/master/eq2.png" alt="equation 2"/>
+</p>
 
 Next question. What's the sum of the following two matrices?
 
-![equation 3](eq3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mwhittaker/phantom-matrix/master/eq3.png" alt="equation 3"/>
+</p>
 
 Hmm, well this question doesn't really make sense. You can't add two matrices
 if they aren't the same size! This repository contains an implementation of
